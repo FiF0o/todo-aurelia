@@ -1,0 +1,2 @@
+install npm dependencies.
+`au run --watch` for dev mode (aurelia-cli [https://github.com/aurelia/cli]).
